@@ -1,0 +1,55 @@
+body {
+    background: url(https://c1.wallpaperflare.com/preview/874/965/110/black-business-computer-desk.jpg) no-repeat center center/cover;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color:white;
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+    padding: 1rem;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 7%;
+}
+
+hr {
+    width: 80%;
+    margin-top: 30px;
+}
+
+.sm {
+    padding: 0.5rem 2rem;
+    color: white;
+    background-color: #426782;
+    border: none;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #2ecc71;
+}
+
+.container input {
+    padding: 0.5rem;
+    width: 70%;
+}
+
+.container input[type = checkbox] {
+    width: auto;
+}
+
+.btn {
+    padding: 1rem;
+    font-size: 1rem;
+    width: 50%;
+    border-radius: 7px;
+    border: none;
+    background-color: #2ecc71;
+}
+
+.sm a{
+    color: white;
+}
